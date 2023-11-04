@@ -260,7 +260,7 @@ uint16_t target_e_com_time_low;
 
 uint8_t crsf_input_channel = 1;
 char eeprom_layout_version = 2;
-char dir_reversed = 0;
+char dir_reversed = 1;
 char comp_pwm = 1;
 char VARIABLE_PWM = 1;
 char bi_direction = 0;
